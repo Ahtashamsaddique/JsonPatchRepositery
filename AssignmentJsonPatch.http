@@ -1,0 +1,6 @@
+@AssignmentJsonPatch_HostAddress = http://localhost:5065
+
+GET {{AssignmentJsonPatch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
